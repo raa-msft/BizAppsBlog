@@ -1,0 +1,4 @@
+[submodule "blogsite/public"]
+	path = blogsite/public
+	url = https://github.com/raa-msft/ba.github.io.git
+	branch = main

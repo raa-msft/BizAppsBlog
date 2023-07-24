@@ -1,0 +1,4 @@
+baseURL = 'https://raa-msft.github.io/ba.github.io/'
+languageCode = 'en-us'
+title = 'CSU BizApps Blog'
+theme = 'lightbi-hugo'
