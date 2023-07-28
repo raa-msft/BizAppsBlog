@@ -1,4 +1,22 @@
 baseURL = 'https://raa-msft.github.io/ba.github.io/'
 languageCode = 'en-us'
 title = 'CSU BizApps Blog'
-theme = 'lightbi-hugo'
+theme = 'mainroad'
+
+
+# mainroad theme params
+[Author] # Used in authorbox
+  name = "Author Name CSU BizApps"
+  bio = "CSU BizApps's true identity is unknown. Maybe there is a successful blogger or writer. Nobody knows."
+  avatar = "img/avatar.png"
+
+
+[Params.sidebar]
+    home = "right" # Configure layout for home page
+    list = "left"  # Configure layout for list pages
+    single = false # Configure layout for single pages
+    # Enable widgets in given order
+    widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget

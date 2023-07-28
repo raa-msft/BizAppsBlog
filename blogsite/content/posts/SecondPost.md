@@ -7,5 +7,5 @@ image : "img/posts/img-2.jpg"
 ### More blog content!
 
 ---
-![Example image](img/img-2.jpg)
+![Example image](/ba.github.io/img/HockeyInSpace.jpg)
 
