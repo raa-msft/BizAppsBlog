@@ -12,7 +12,7 @@ tags:
 menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
-thumbnail: "img/img-2.jpg" # Thumbnail image
+thumbnail: "img/pink.jpg" # Thumbnail image
 lead: "Going to a P!nk concert?" # Lead text
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
@@ -35,5 +35,4 @@ widgets: # Enable sidebar widgets in given order per page
 ---
  Image
 
-![Fun image here images](/ba.github.io/img/img-2.jpg)
 ![Fun image here images](/ba.github.io/img/pink.jpg)
