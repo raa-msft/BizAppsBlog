@@ -13,7 +13,7 @@ menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
 thumbnail: "img/img-3.jpg" # Thumbnail image
-lead: "Going to a P!nk concert?" # Lead text
+lead: "Another post for you" # Lead text
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
